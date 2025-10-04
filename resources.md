@@ -4,7 +4,11 @@
 
 ## soil moisture
 
-## forest 
+## forest density
+
+## topography
+
+## wind
 
 - R1 https://appliedsciences.nasa.gov/get-involved/training/english/arset-forest-mapping-and-monitoring-sar-data
   - Forest Mapping and Monitoring with SAR Data
