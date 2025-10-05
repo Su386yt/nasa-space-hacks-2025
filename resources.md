@@ -7,8 +7,12 @@
 ## forest density
 
 ## topography
-
+R12 https://open.canada.ca/data/en/dataset/957782bf-847c-4644-a757-e383c0057995
+  - Elevation and slope map of Canada (DTM data)
 ## wind
+- R9 https://globalwindatlas.info/en/download/gis-files
+  - Wind velocity in Canada above 200m
+
 
 - R1 https://appliedsciences.nasa.gov/get-involved/training/english/arset-forest-mapping-and-monitoring-sar-data
   - Forest Mapping and Monitoring with SAR Data
@@ -30,8 +34,6 @@
   - Wind velocity in Canada above 200m
 - R10 https://earth.esa.int/eogateway/missions/smos/data
   - daily wind speed from european international space agency
-- R11 https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-boreal-agb-density-icesat2-2186-1
-  - 2019-2021 asia, north america, forest density
 - R12 https://open.canada.ca/data/en/dataset/957782bf-847c-4644-a757-e383c0057995
   - Elevation and slope map of Canada (DTM data)
 ## Related Research
