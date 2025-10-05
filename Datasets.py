@@ -104,7 +104,7 @@ class DataSet(ABC):
     @abstractmethod
     # @log_time
     def get_all(
-        self, spacetimecoords: list[tuple[float, float, int]], time: datetime
+        self, spacetimecoords: list[tuple[float, float, int]]
     ) -> list[float]:
         """Returns a list corresponding to the data value at each input coordinate"""
         pass
@@ -134,7 +134,7 @@ class Moisture(DataSet):
 
     # @log_time
     def get_all(
-        self, spacetimecoords: list[tuple[float, float, int]], time: datetime
+        self, spacetimecoords: list[tuple[float, float, int]]
     ) -> list[float]:
         """Will attempt to retrieve data from within the same day as the provided time"""
         expected_filepath = os.path.join(
@@ -207,5 +207,5 @@ if __name__ == "__main__":
         (52.9093, -118.0887, 1704218400)
     ]  # Example coordinates (Georgia's random generated coords around jasper)
     time = datetime(2023, 10, 1)  # Example date
-    results = moisture_data.get_all(coords, time)
+    results = moisture_data.get_all(coords)
     print(results)
