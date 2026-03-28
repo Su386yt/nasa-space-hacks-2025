@@ -1,0 +1,11 @@
+2025-10-05 12:00:12,181 - timing_logger - INFO - Function 'Topography.get_all' took 0:00:15.535029 seconds to complete.
+2025-10-05 12:00:13,785 - timing_logger - INFO - Function 'Topography.get_all' took 0:00:16.449641 seconds to complete.
+2025-10-05 12:02:04,644 - timing_logger - INFO - Function 'Topography.get_all' took 0:00:00.032408 seconds to complete.
+2025-10-05 12:14:18,341 - timing_logger - INFO - Function 'Topography.get_all' took 0:00:00.007061 seconds to complete.
+2025-10-05 12:14:49,099 - timing_logger - INFO - Function 'Topography.get_all' took 0:00:00.006334 seconds to complete.
+2025-10-05 12:15:13,126 - timing_logger - INFO - Function 'Topography.get_all' took 0:00:00.005505 seconds to complete.
+2025-10-05 12:15:31,182 - timing_logger - INFO - Function 'ForestDensity.get_all' took 0:00:00.001000 seconds to complete.
+2025-10-05 12:15:31,188 - timing_logger - INFO - Function 'Topography.get_all' took 0:00:00.006036 seconds to complete.
+2025-10-05 12:15:37,149 - timing_logger - INFO - Function 'ForestDensity.get_all' took 0:00:00.001005 seconds to complete.
+2025-10-05 12:15:37,156 - timing_logger - INFO - Function 'Topography.get_all' took 0:00:00.007507 seconds to complete.
+2025-10-05 12:16:58,857 - timing_logger - INFO - Function 'Topography.get_all' took 0:00:00.004018 seconds to complete.
